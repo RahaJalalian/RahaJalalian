@@ -7,7 +7,7 @@
 <img
   width="100%"
   alt="Raha Jalalian — Software Engineering, Full-Stack, AI/ML"
-  src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0B0C10,18:17121F,35:FF3D9A,52:A855F7,68:3478F6,83:FF7043,100:0B0C10&text=RAHA%20JALALIAN&fontColor=F8F7FA&fontSize=52&fontAlignY=43&desc=SOFTWARE%20ENGINEERING%20%C3%97%20FULL-STACK%20%C3%97%20AI%2FML&descAlignY=61&descSize=16"
+  src="https://capsule-render.vercel.app/api?type=venom&height=430&color=0:0B0C10,38:0B0C10,55:11121A,68:241438,78:A855F7,87:FF3D9A,94:3478F6,100:FF7043&text=RAHA%20JALALIAN&fontColor=F8F7FA&fontSize=58&fontAlign=38&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20%C3%97%20FULL-STACK%20%C3%97%20AI%2FML&descAlign=38&descAlignY=56&descSize=17"
 />
 
 <br>
