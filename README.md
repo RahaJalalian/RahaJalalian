@@ -68,8 +68,9 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 <br>
 
 <p align="center">
-━━━━━━━━━━━━━━━━━━━━ ◇ ━━━━━━━━━━━━━━━━━━━━
   </p>
+━━━━━━━━━━━━━━━━━━━━ ◇ ━━━━━━━━━━━━━━━━━━━━
+  
 <!-- ═══════════════════════ TECHNICAL EXPERTISE ═══════════════════════ -->
 
 <h2 align="center">◆ Technical Expertise</h2>
@@ -226,8 +227,9 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 <br>
 
 <p align="center">
+  </p>
 ━━━━━━━━━━━━━━━━━━━━ ◇ ━━━━━━━━━━━━━━━━━━━━
-</p>
+
 
 <!-- TECHNICAL EXPERIENCE -->
 
