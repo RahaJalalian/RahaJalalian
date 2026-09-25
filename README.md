@@ -503,7 +503,7 @@ explore new ideas, and work on technology that matters.
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
 <img width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:020617,100:0049B7"/>
+src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=12,12,30"/>
 
 <div align="center">
   <sub>Designed & built by Raha Jalalian</sub>
