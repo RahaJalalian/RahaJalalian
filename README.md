@@ -69,9 +69,8 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━ ◇ ━━━━━━━━━━━━━━━━━━━━
-</p>
-
-<!-- TECHNICAL EXPERTISE -->
+  </p>
+<!-- ═══════════════════════ TECHNICAL EXPERTISE ═══════════════════════ -->
 
 <h2 align="center">◆ Technical Expertise</h2>
 
@@ -82,7 +81,10 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 <br>
 
 <table align="center">
+
 <tr>
+
+<!-- LANGUAGES -->
 
 <td align="center" width="33%">
 
@@ -103,13 +105,18 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 
 </td>
 
+
+<!-- FULL-STACK -->
+
 <td align="center" width="33%">
 
 ### Full-Stack
 
-<img src="https://skillicons.dev/icons?i=react,ts,html,css,fastapi&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,html,css,fastapi&theme=dark" />
+</p>
 
-<br><br>
+<br>
 
 `React`　`TypeScript`  
 `HTML5`　`CSS3`  
@@ -118,13 +125,18 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 
 </td>
 
+
+<!-- AI / ML -->
+
 <td align="center" width="33%">
 
 ### AI / ML
 
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,anaconda&theme=dark" />
+</p>
 
-<br><br>
+<br>
 
 `PyTorch`　`YOLO`  
 `Segment Anything (SAM)`  
@@ -137,15 +149,26 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 
 </tr>
 
+
 <tr>
+
+<!-- DATA & PROCESSING -->
 
 <td align="center" width="33%">
 
 ### Data & Processing
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres&theme=dark" />
+  &nbsp;&nbsp;
+  <img
+    height="48"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
+    alt="Pandas"
+  />
+</p>
 
-<br><br>
+<br>
 
 `Pandas`　`SQL`  
 `Excel / CSV Pipelines`  
@@ -155,13 +178,18 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 
 </td>
 
+
+<!-- SYSTEMS -->
+
 <td align="center" width="33%">
 
 ### Systems & Environments
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker&theme=dark" />
+</p>
 
-<br><br>
+<br>
 
 `Unix / Linux`　`Ubuntu`  
 `Docker`　`CUDA`  
@@ -170,13 +198,18 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 
 </td>
 
+
+<!-- DEVELOPER TOOLS -->
+
 <td align="center" width="33%">
 
 ### Developer Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+</p>
 
-<br><br>
+<br>
 
 `Git`　`GitHub`  
 `Feature Branches`  
@@ -187,6 +220,7 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 </td>
 
 </tr>
+
 </table>
 
 <br>
