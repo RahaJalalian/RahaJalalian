@@ -7,11 +7,9 @@
 
 <!-- HERO -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0049B7&text=Raha%20Jalalian&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineering%20%E2%9C%A6%20AI%20%2F%20ML&descAlignY=58&descSize=20&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0049B7,40:0049B7,65:00DFFF,83:F75990,100:FF1D58&text=Raha%20Jalalian&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineering%20%E2%9C%A6%20AI%20%2F%20ML&descAlignY=58&descSize=20&animation=fadeIn"/>
 
 <br>
-
-<img src="./assets/uoft-logo.png" width="45" alt="University of Toronto logo">
 
 ### Computer Science @ University of Toronto
 
@@ -42,7 +40,7 @@
 
 <br>
 
-<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
+<!-- ABOUT -->
 
 <h2 align="center">◆ About Me</h2>
 
@@ -56,7 +54,11 @@ reinforcement learning, AI-powered applications, and data-driven systems**.
 
 I love turning complex ideas into software that is **useful, intelligent, and built to make an impact**.
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 `AI / ML`　•　`Software Engineering`　•　`Computer Vision`　•　`Full-Stack`　•　`Intelligent Systems`
 
@@ -68,7 +70,7 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 ━━━━━━━━━━━━━━━━━━━━ ◇ ━━━━━━━━━━━━━━━━━━━━
 </p>
 
-<!-- ═══════════════════════ TECHNICAL EXPERTISE ═══════════════════════ -->
+<!-- TECHNICAL EXPERTISE -->
 
 <h2 align="center">◆ Technical Expertise</h2>
 
@@ -79,7 +81,6 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 <br>
 
 <table align="center">
-
 <tr>
 
 <td align="center" width="33%">
@@ -87,9 +88,9 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,ts,c&theme=dark" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=r,ruby,bash,html&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,ts,c&theme=dark" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=r,ruby,bash,html&theme=dark" />
 </p>
 
 <br>
@@ -185,7 +186,6 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 </td>
 
 </tr>
-
 </table>
 
 <br>
@@ -194,7 +194,7 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 ━━━━━━━━━━━━━━━━━━━━ ◇ ━━━━━━━━━━━━━━━━━━━━
 </p>
 
-<!-- ═══════════════════════ EXPERIENCE ═══════════════════════ -->
+<!-- TECHNICAL EXPERIENCE -->
 
 <h2 align="center">◆ Technical Experience</h2>
 
@@ -261,7 +261,7 @@ Analyzed and redesigned technical workflows for a CRM environment supporting **5
 ━━━━━━━━━━━━━━━━━━━━ ◇ ━━━━━━━━━━━━━━━━━━━━
 </p>
 
-<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
+<!-- FEATURED PROJECTS -->
 
 <h2 align="center">◆ Featured Projects</h2>
 
@@ -278,14 +278,12 @@ Analyzed and redesigned technical workflows for a CRM environment supporting **5
 
 <h3 align="center">NorthStar</h3>
 
-<p align="center">
-<b>AI-Powered Scholarship Matching Platform</b>
-</p>
+<p align="center"><b>AI-Powered Scholarship Matching Platform</b></p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Claude_API-FF1D58?style=flat-square">&nbsp;
-<img src="https://img.shields.io/badge/FastAPI-00DFFF?style=flat-square&logo=fastapi&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Supabase-0049B7?style=flat-square&logo=supabase&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Claude_API-FF1D58?style=flat-square">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/FastAPI-00DFFF?style=flat-square&logo=fastapi&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Supabase-0049B7?style=flat-square&logo=supabase&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/AI-F75990?style=flat-square">
 </p>
 
@@ -304,14 +302,12 @@ Built structured prompt pipelines for scholarship scoring, reasoning, and person
 
 <h3 align="center">AI² Reinforcement Learning</h3>
 
-<p align="center">
-<b>UTMIST · Competitive RL Agent</b>
-</p>
+<p align="center"><b>UTMIST · Competitive RL Agent</b></p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-0049B7?style=flat-square&logo=python&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/PyTorch-FF1D58?style=flat-square&logo=pytorch&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Gymnasium-00DFFF?style=flat-square">&nbsp;
+<img src="https://img.shields.io/badge/Python-0049B7?style=flat-square&logo=python&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PyTorch-FF1D58?style=flat-square&logo=pytorch&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Gymnasium-00DFFF?style=flat-square">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/PPO-F75990?style=flat-square">
 </p>
 
@@ -335,25 +331,19 @@ Benchmarked models on **Tenstorrent Cloud** using GPU environments and parallel 
 
 <h3 align="center">Rate My Music</h3>
 
-<p align="center">
-<b>Java Desktop Music Application</b>
-</p>
+<p align="center"><b>Java Desktop Music Application</b></p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-0049B7?style=flat-square&logo=openjdk&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Java_Swing-00DFFF?style=flat-square">&nbsp;
-<img src="https://img.shields.io/badge/Clean_Architecture-FF1D58?style=flat-square">&nbsp;
+<img src="https://img.shields.io/badge/Java-0049B7?style=flat-square&logo=openjdk&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Java_Swing-00DFFF?style=flat-square">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Clean_Architecture-FF1D58?style=flat-square">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/API_Integration-F75990?style=flat-square">
 </p>
 
 <p align="center">
-
-Built a Java desktop application for <b>browsing, reviewing, and rating music</b>.
-
-<br><br>
-
-Implemented <b>Clean Architecture</b> to separate entities, interface adapters, and UI components, and integrated external APIs to retrieve metadata for <b>100+ songs</b>.
-
+Built a Java desktop application for <b>browsing, reviewing, and rating music</b>.<br><br>
+Implemented <b>Clean Architecture</b> to separate entities, interface adapters, and UI components,
+and integrated external APIs to retrieve metadata for <b>100+ songs</b>.
 </p>
 
 </td>
@@ -366,7 +356,7 @@ Implemented <b>Clean Architecture</b> to separate entities, interface adapters, 
 ━━━━━━━━━━━━━━━━━━━━ ◇ ━━━━━━━━━━━━━━━━━━━━
 </p>
 
-<!-- ═══════════════════════ CURRENTLY ═══════════════════════ -->
+<!-- CURRENTLY -->
 
 <h2 align="center">◆ Currently</h2>
 
@@ -393,9 +383,7 @@ Implemented <b>Clean Architecture</b> to separate entities, interface adapters, 
 </tr>
 
 <tr>
-<td>
-<img src="./assets/uoft-logo.png" width="25" alt="University of Toronto logo">
-</td>
+<td>🎓</td>
 <td><b>Studying</b></td>
 <td>Computer Science @ University of Toronto</td>
 </tr>
@@ -422,7 +410,7 @@ Implemented <b>Clean Architecture</b> to separate entities, interface adapters, 
 ━━━━━━━━━━━━━━━━━━━━ ◇ ━━━━━━━━━━━━━━━━━━━━
 </p>
 
-<!-- ═══════════════════════ PERSONAL ═══════════════════════ -->
+<!-- PERSONAL -->
 
 <h2 align="center">◆ Beyond the Terminal</h2>
 
@@ -446,7 +434,7 @@ I like work that sits at the intersection of
 ━━━━━━━━━━━━━━━━━━━━ ◇ ━━━━━━━━━━━━━━━━━━━━
 </p>
 
-<!-- ═══════════════════════ CONTACT ═══════════════════════ -->
+<!-- CONTACT -->
 
 <h2 align="center">◆ Let's Connect</h2>
 
@@ -477,7 +465,7 @@ explore new ideas, and work on technology that matters.
 
 <!-- FOOTER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0049B7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0049B7,45:0049B7,70:00DFFF,88:F75990,100:FF1D58"/>
 
 <div align="center">
 <sub>Designed & built by Raha Jalalian</sub>
