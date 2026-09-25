@@ -37,11 +37,9 @@ src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient
 
 </div>
 
-<br>
+<br><br>
 
-<br>
-
-<!-- ABOUT -->
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 
 <h2 align="center">◆ About Me</h2>
 
@@ -68,9 +66,9 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 <br>
 
 <p align="center">
-
 ━━━━━━━━━━━━━━━━━━━━ ◇ ━━━━━━━━━━━━━━━━━━━━
-   </p> 
+</p>
+
 <!-- ═══════════════════════ TECHNICAL EXPERTISE ═══════════════════════ -->
 
 <h2 align="center">◆ Technical Expertise</h2>
@@ -106,7 +104,6 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 
 </td>
 
-
 <!-- FULL-STACK -->
 
 <td align="center" width="33%">
@@ -125,7 +122,6 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 `Supabase`
 
 </td>
-
 
 <!-- AI / ML -->
 
@@ -149,7 +145,6 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 </td>
 
 </tr>
-
 
 <tr>
 
@@ -179,7 +174,6 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 
 </td>
 
-
 <!-- SYSTEMS -->
 
 <td align="center" width="33%">
@@ -198,7 +192,6 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 `Tenstorrent Cloud`
 
 </td>
-
 
 <!-- DEVELOPER TOOLS -->
 
@@ -227,11 +220,10 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 <br>
 
 <p align="center">
-
 ━━━━━━━━━━━━━━━━━━━━ ◇ ━━━━━━━━━━━━━━━━━━━━
-  </p>
+</p>
 
-<!-- TECHNICAL EXPERIENCE -->
+<!-- ═══════════════════════ TECHNICAL EXPERIENCE ═══════════════════════ -->
 
 <h2 align="center">◆ Technical Experience</h2>
 
@@ -242,12 +234,12 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 > **Healthcare Computer Vision · Apr 2026 — Present**
 
 <p>
-<img src="https://img.shields.io/badge/PyTorch-FF1D58?style=flat-square&logo=pytorch&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/YOLO-F75990?style=flat-square">&nbsp;
-<img src="https://img.shields.io/badge/SAM-0049B7?style=flat-square">&nbsp;
-<img src="https://img.shields.io/badge/CVAT-00DFFF?style=flat-square">&nbsp;
-<img src="https://img.shields.io/badge/Docker-0049B7?style=flat-square&logo=docker&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/CUDA-FF1D58?style=flat-square&logo=nvidia&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-FF1D58?style=flat-square&logo=pytorch&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/YOLO-F75990?style=flat-square">&nbsp;
+  <img src="https://img.shields.io/badge/SAM-0049B7?style=flat-square">&nbsp;
+  <img src="https://img.shields.io/badge/CVAT-00DFFF?style=flat-square">&nbsp;
+  <img src="https://img.shields.io/badge/Docker-0049B7?style=flat-square&logo=docker&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/CUDA-FF1D58?style=flat-square&logo=nvidia&logoColor=white">
 </p>
 
 Working on a **computer-vision pipeline for gastric ultrasound imaging**, using YOLO and Segment Anything Model for medical-image detection and segmentation.
@@ -264,11 +256,11 @@ Working on a **computer-vision pipeline for gastric ultrasound imaging**, using 
 > **Full-Stack & Data Engineering · May 2025 — Aug 2025**
 
 <p>
-<img src="https://img.shields.io/badge/React-00DFFF?style=flat-square&logo=react&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-0049B7?style=flat-square&logo=typescript&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/FastAPI-FF1D58?style=flat-square&logo=fastapi&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Python-F75990?style=flat-square&logo=python&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Pandas-0049B7?style=flat-square&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/React-00DFFF?style=flat-square&logo=react&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-0049B7?style=flat-square&logo=typescript&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-FF1D58?style=flat-square&logo=fastapi&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Python-F75990?style=flat-square&logo=python&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-0049B7?style=flat-square&logo=pandas&logoColor=white">
 </p>
 
 Built software and data-processing tools for a **product and supplier data platform**.
@@ -285,9 +277,9 @@ Built software and data-processing tools for a **product and supplier data platf
 > **Systems & Workflow Automation · Nov 2023 — May 2024**
 
 <p>
-<img src="https://img.shields.io/badge/Systems_Analysis-0049B7?style=flat-square">&nbsp;
-<img src="https://img.shields.io/badge/Workflow_Automation-FF1D58?style=flat-square">&nbsp;
-<img src="https://img.shields.io/badge/CRM_Systems-00DFFF?style=flat-square">
+  <img src="https://img.shields.io/badge/Systems_Analysis-0049B7?style=flat-square">&nbsp;
+  <img src="https://img.shields.io/badge/Workflow_Automation-FF1D58?style=flat-square">&nbsp;
+  <img src="https://img.shields.io/badge/CRM_Systems-00DFFF?style=flat-square">
 </p>
 
 Analyzed and redesigned technical workflows for a CRM environment supporting **50+ agents**, focusing on scalability, automation, and data synchronization.
@@ -298,7 +290,7 @@ Analyzed and redesigned technical workflows for a CRM environment supporting **5
 ━━━━━━━━━━━━━━━━━━━━ ◇ ━━━━━━━━━━━━━━━━━━━━
 </p>
 
-<!-- FEATURED PROJECTS -->
+<!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
 
 <h2 align="center">◆ Featured Projects</h2>
 
@@ -315,13 +307,15 @@ Analyzed and redesigned technical workflows for a CRM environment supporting **5
 
 <h3 align="center">NorthStar</h3>
 
-<p align="center"><b>AI-Powered Scholarship Matching Platform</b></p>
+<p align="center">
+  <b>AI-Powered Scholarship Matching Platform</b>
+</p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Claude_API-FF1D58?style=flat-square">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/FastAPI-00DFFF?style=flat-square&logo=fastapi&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Supabase-0049B7?style=flat-square&logo=supabase&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/AI-F75990?style=flat-square">
+  <img src="https://img.shields.io/badge/Claude_API-FF1D58?style=flat-square">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-00DFFF?style=flat-square&logo=fastapi&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Supabase-0049B7?style=flat-square&logo=supabase&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AI-F75990?style=flat-square">
 </p>
 
 Led development of an **AI-powered scholarship matching and essay-generation platform**.
@@ -339,13 +333,15 @@ Built structured prompt pipelines for scholarship scoring, reasoning, and person
 
 <h3 align="center">AI² Reinforcement Learning</h3>
 
-<p align="center"><b>UTMIST · Competitive RL Agent</b></p>
+<p align="center">
+  <b>UTMIST · Competitive RL Agent</b>
+</p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-0049B7?style=flat-square&logo=python&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/PyTorch-FF1D58?style=flat-square&logo=pytorch&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Gymnasium-00DFFF?style=flat-square">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/PPO-F75990?style=flat-square">
+  <img src="https://img.shields.io/badge/Python-0049B7?style=flat-square&logo=python&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-FF1D58?style=flat-square&logo=pytorch&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Gymnasium-00DFFF?style=flat-square">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PPO-F75990?style=flat-square">
 </p>
 
 Developed **reinforcement-learning agents** for a competitive 1v1 game environment.
@@ -368,22 +364,26 @@ Benchmarked models on **Tenstorrent Cloud** using GPU environments and parallel 
 
 <h3 align="center">Rate My Music</h3>
 
-<p align="center"><b>Java Desktop Music Application</b></p>
-
 <p align="center">
-<img src="https://img.shields.io/badge/Java-0049B7?style=flat-square&logo=openjdk&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Java_Swing-00DFFF?style=flat-square">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Clean_Architecture-FF1D58?style=flat-square">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/API_Integration-F75990?style=flat-square">
+  <b>Java Desktop Music Application</b>
 </p>
 
 <p align="center">
-Built a Java desktop application for <b>browsing, reviewing, and rating music</b>.<br><br>
-Implemented <b>Clean Architecture</b> to separate entities, interface adapters, and UI components,
-and integrated external APIs to retrieve metadata for <b>100+ songs</b>.
+  <img src="https://img.shields.io/badge/Java-0049B7?style=flat-square&logo=openjdk&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java_Swing-00DFFF?style=flat-square">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Clean_Architecture-FF1D58?style=flat-square">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/API_Integration-F75990?style=flat-square">
+</p>
+
+<p align="center">
+  Built a Java desktop application for <b>browsing, reviewing, and rating music</b>.
+  <br><br>
+  Implemented <b>Clean Architecture</b> to separate entities, interface adapters, and UI components,
+  and integrated external APIs to retrieve metadata for <b>100+ songs</b>.
 </p>
 
 </td>
+
 </tr>
 </table>
 
@@ -393,7 +393,7 @@ and integrated external APIs to retrieve metadata for <b>100+ songs</b>.
 ━━━━━━━━━━━━━━━━━━━━ ◇ ━━━━━━━━━━━━━━━━━━━━
 </p>
 
-<!-- CURRENTLY -->
+<!-- ═══════════════════════ CURRENTLY ═══════════════════════ -->
 
 <h2 align="center">◆ Currently</h2>
 
@@ -402,39 +402,39 @@ and integrated external APIs to retrieve metadata for <b>100+ songs</b>.
 <table>
 
 <tr>
-<td>🔬</td>
-<td><b>Working on</b></td>
-<td>Healthcare computer vision @ UHN</td>
+  <td>🔬</td>
+  <td><b>Working on</b></td>
+  <td>Healthcare computer vision @ UHN</td>
 </tr>
 
 <tr>
-<td>🧠</td>
-<td><b>Exploring</b></td>
-<td>AI/ML systems & intelligent applications</td>
+  <td>🧠</td>
+  <td><b>Exploring</b></td>
+  <td>AI/ML systems & intelligent applications</td>
 </tr>
 
 <tr>
-<td>💻</td>
-<td><b>Building</b></td>
-<td>Software + AI projects</td>
+  <td>💻</td>
+  <td><b>Building</b></td>
+  <td>Software + AI projects</td>
 </tr>
 
 <tr>
-<td>🎓</td>
-<td><b>Studying</b></td>
-<td>Computer Science @ University of Toronto</td>
+  <td>🎓</td>
+  <td><b>Studying</b></td>
+  <td>Computer Science @ University of Toronto</td>
 </tr>
 
 <tr>
-<td>💼</td>
-<td><b>Co-op</b></td>
-<td>UofT Arts & Science Internship Program (ASIP)</td>
+  <td>💼</td>
+  <td><b>Co-op</b></td>
+  <td>UofT Arts & Science Internship Program (ASIP)</td>
 </tr>
 
 <tr>
-<td>🚀</td>
-<td><b>Interested in</b></td>
-<td>Software Engineering & AI/ML opportunities</td>
+  <td>🚀</td>
+  <td><b>Interested in</b></td>
+  <td>Software Engineering & AI/ML opportunities</td>
 </tr>
 
 </table>
@@ -447,7 +447,7 @@ and integrated external APIs to retrieve metadata for <b>100+ songs</b>.
 ━━━━━━━━━━━━━━━━━━━━ ◇ ━━━━━━━━━━━━━━━━━━━━
 </p>
 
-<!-- PERSONAL -->
+<!-- ═══════════════════════ PERSONAL ═══════════════════════ -->
 
 <h2 align="center">◆ Beyond the Terminal</h2>
 
@@ -471,7 +471,7 @@ I like work that sits at the intersection of
 ━━━━━━━━━━━━━━━━━━━━ ◇ ━━━━━━━━━━━━━━━━━━━━
 </p>
 
-<!-- CONTACT -->
+<!-- ═══════════════════════ CONTACT ═══════════════════════ -->
 
 <h2 align="center">◆ Let's Connect</h2>
 
@@ -500,11 +500,11 @@ explore new ideas, and work on technology that matters.
 
 </div>
 
-<!-- FOOTER -->
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
 <img width="100%"
 src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:020617,100:0049B7"/>
 
 <div align="center">
-<sub>Designed & built by Raha Jalalian</sub>
+  <sub>Designed & built by Raha Jalalian</sub>
 </div>
