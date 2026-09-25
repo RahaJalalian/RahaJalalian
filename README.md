@@ -8,7 +8,7 @@
 <!-- HERO -->
 
 <img width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4338CA,50:312E81,100:17153B&text=Raha%20Jalalian&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Software%20Engineering%20%E2%9C%A6%20AI%20%2F%20ML&descAlignY=58&descSize=20&animation=fadeIn"/>
+src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0049B7,70:0049B7,100:00398F&text=Raha%20Jalalian&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Software%20Engineering%20%E2%9C%A6%20AI%20%2F%20ML&descAlignY=58&descSize=20&animation=fadeIn"/>
 
 ### Computer Science @ University of Toronto
 
@@ -36,6 +36,8 @@ src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4338CA
 <img src="https://img.shields.io/badge/Open_to-SWE_&_AI%2FML-F75990?style=flat-square">
 
 </div>
+
+<br>
 
 <br>
 
