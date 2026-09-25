@@ -1,4 +1,69 @@
-<!-- ───────────────────── ABOUT ───────────────────── -->
+<div align="center">
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                         HERO                               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img
+  width="100%"
+  alt="Raha Jalalian — Software Engineering, Full-Stack, AI/ML"
+  src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0B0C10,18:17121F,35:FF3D9A,52:A855F7,68:3478F6,83:FF7043,100:0B0C10&text=RAHA%20JALALIAN&fontColor=F8F7FA&fontSize=52&fontAlignY=43&desc=SOFTWARE%20ENGINEERING%20%C3%97%20FULL-STACK%20%C3%97%20AI%2FML&descAlignY=61&descSize=16"
+/>
+
+<br>
+
+### Building intelligent systems with real-world impact.
+
+<sub>
+SOFTWARE ENGINEERING　✦　ARTIFICIAL INTELLIGENCE　✦　MACHINE LEARNING
+</sub>
+
+<br><br>
+
+<!-- PROFILE TAGS -->
+
+<p>
+  <img src="https://img.shields.io/badge/COMPUTER%20SCIENCE-UOFT-FF3D9A?style=for-the-badge&labelColor=101116">
+  <img src="https://img.shields.io/badge/ASIP-CO--OP-A855F7?style=for-the-badge&labelColor=101116">
+  <img src="https://img.shields.io/badge/TORONTO-CANADA-3478F6?style=for-the-badge&labelColor=101116">
+  <img src="https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-FF7043?style=for-the-badge&labelColor=101116">
+</p>
+
+<!-- LINKS -->
+
+<p>
+  <a href="https://www.linkedin.com/in/raha-jalalian/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-3478F6?style=flat-square&logo=linkedin&logoColor=white&labelColor=101116">
+  </a>
+  &nbsp;
+  <a href="mailto:raha.jalalian@mail.utoronto.ca">
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT-FF3D9A?style=flat-square&logo=gmail&logoColor=white&labelColor=101116">
+  </a>
+  &nbsp;
+  <a href="https://github.com/RahaJalalian">
+    <img src="https://img.shields.io/badge/GITHUB-EXPLORE-A855F7?style=flat-square&logo=github&logoColor=white&labelColor=101116">
+  </a>
+</p>
+
+<br>
+
+<sub>
+<code>SWE</code>　✦　<code>FULL-STACK</code>　✦　<code>AI / ML</code>　✦　<code>COMPUTER VISION</code>
+</sub>
+
+<br><br>
+
+</div>
+
+<img
+  width="100%"
+  height="4"
+  src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FF3D9A,30:A855F7,60:3478F6,82:8D55E9,100:FF7043"
+/>
+
+<br>
+
+## ABOUT<!-- ───────────────────── ABOUT ───────────────────── -->
 
 ## ABOUT
 
