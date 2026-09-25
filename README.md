@@ -1,78 +1,78 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                           HERO                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                              HERO                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img
   width="100%"
-  alt="Raha Jalalian — Software Engineering, Full-Stack, AI/ML"
-  src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:0B0C10,40:0B0C10,58:171221,72:54206B,84:A855F7,93:FF3D9A,100:3478F6&text=RAHA%20JALALIAN&fontColor=F8F7FA&fontSize=58&fontAlign=34&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%C3%97%20FULL-STACK%20%C3%97%20AI%2FML&descAlign=34&descAlignY=56&descSize=17&animation=fadeIn"
+  alt="Raha Jalalian — Software Engineering, AI/ML"
+  src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,45:0D1117,67:101923,78:0049B7,88:00DDFF,95:F75990,100:FF1D58&text=RAHA%20JALALIAN&fontColor=FFFFFF&fontSize=56&fontAlign=50&fontAlignY=39&desc=SOFTWARE%20ENGINEER%20%C2%B7%20AI%2FML%20RESEARCHER&descAlign=50&descAlignY=57&descSize=18&animation=fadeIn"
 />
 
 <br>
 
-### Building intelligent systems with real-world impact.
+### Computer Science @ University of Toronto
 
-<sub>
-SOFTWARE ENGINEERING　✦　ARTIFICIAL INTELLIGENCE　✦　MACHINE LEARNING
-</sub>
+Building **intelligent software, full-stack systems, and computer vision solutions.**
 
-<br><br>
+<br>
 
 <p>
-  <img src="https://img.shields.io/badge/COMPUTER%20SCIENCE-UOFT-FF3D9A?style=for-the-badge&labelColor=101116">
-  <img src="https://img.shields.io/badge/ASIP-CO--OP-A855F7?style=for-the-badge&labelColor=101116">
-  <img src="https://img.shields.io/badge/TORONTO-CANADA-3478F6?style=for-the-badge&labelColor=101116">
-  <img src="https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-FF7043?style=for-the-badge&labelColor=101116">
+  <img src="https://img.shields.io/badge/COMPUTER%20SCIENCE-UOFT-FF1D58?style=for-the-badge&labelColor=11151C">
+  &nbsp;
+  <img src="https://img.shields.io/badge/ASIP-CO--OP-0049B7?style=for-the-badge&labelColor=11151C">
+  &nbsp;
+  <img src="https://img.shields.io/badge/TORONTO-CANADA-00DDFF?style=for-the-badge&labelColor=11151C">
 </p>
 
 <p>
   <a href="https://www.linkedin.com/in/raha-jalalian/">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-3478F6?style=flat-square&logo=linkedin&logoColor=white&labelColor=101116">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0049B7?style=flat-square&logo=linkedin&logoColor=white&labelColor=11151C">
   </a>
   &nbsp;
   <a href="mailto:raha.jalalian@mail.utoronto.ca">
-    <img src="https://img.shields.io/badge/EMAIL-CONTACT-FF3D9A?style=flat-square&logo=gmail&logoColor=white&labelColor=101116">
+    <img src="https://img.shields.io/badge/Email-Contact-FF1D58?style=flat-square&logo=gmail&logoColor=white&labelColor=11151C">
   </a>
   &nbsp;
   <a href="https://github.com/RahaJalalian">
-    <img src="https://img.shields.io/badge/GITHUB-EXPLORE-A855F7?style=flat-square&logo=github&logoColor=white&labelColor=101116">
+    <img src="https://img.shields.io/badge/GitHub-Explore-00DDFF?style=flat-square&logo=github&logoColor=white&labelColor=11151C">
   </a>
 </p>
 
 <br>
 
 <sub>
-<code>SWE</code>　✦　<code>FULL-STACK</code>　✦　<code>AI / ML</code>　✦　<code>COMPUTER VISION</code>
+SOFTWARE ENGINEERING　✦　FULL-STACK　✦　AI / ML　✦　COMPUTER VISION
 </sub>
 
 <br><br>
 
 </div>
 
-<img
-  width="100%"
-  height="4"
-  src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FF3D9A,30:A855F7,60:3478F6,82:8D55E9,100:FF7043"
-/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                             ABOUT                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <br>
 
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                          ABOUT                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<div align="center">
 
 ## ABOUT
 
-> ### Building software at the intersection of engineering + intelligence.
+<sub>ENGINEERING × INTELLIGENCE × REAL-WORLD IMPACT</sub>
+
+</div>
+
+<br>
+
+> ### Building software at the intersection of engineering and intelligence.
 
 I'm a **Computer Science Specialist and ASIP/Co-op student at the University of Toronto**, focused on **software engineering, full-stack development, and artificial intelligence / machine learning**.
 
 My experience spans **healthcare computer vision, full-stack engineering, reinforcement learning, AI-powered applications, and data-processing infrastructure**.
 
-I like turning technically complex ideas into **practical systems with measurable real-world value**.
+I enjoy turning technically complex ideas into **practical systems with measurable real-world value**.
 
 <br>
 
@@ -84,294 +84,215 @@ I like turning technically complex ideas into **practical systems with measurabl
 
 <br>
 
-<img
-  width="100%"
-  height="4"
-  src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FF3D9A,30:A855F7,60:3478F6,82:8D55E9,100:FF7043"
-/>
+<img width="100%" height="3"
+src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF1D58,35:F75990,65:00DDFF,100:0049B7"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                           TECH STACK                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <br>
 
+<div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TECHNICAL UNIVERSE                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+## TECH STACK
 
-## TECHNICAL UNIVERSE
-
-<sub>THE LANGUAGES, FRAMEWORKS & SYSTEMS BEHIND WHAT I BUILD</sub>
+<sub>THE TECHNOLOGIES BEHIND WHAT I BUILD</sub>
 
 <br><br>
 
 <table>
-
 <tr>
 
-<!-- LANGUAGES -->
-
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### Languages
 
 <br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,ts,c&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=r,ruby,bash&theme=dark" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-11131B?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MIPS_ASSEMBLY-11131B?style=for-the-badge">
-</p>
-
-<br>
-
-<p align="center">
-Python · Java · TypeScript · C<br>
-SQL · R · Ruby · Bash / Shell<br>
-MIPS Assembly
-</p>
-
-</td>
-
-
-<!-- FRONTEND -->
-
-<td width="33%" valign="top">
-
-### Frontend
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
-</p>
-
-<br>
-
-<p align="center">
-<strong>React · TypeScript</strong><br>
-<strong>HTML5 · CSS3</strong>
-</p>
-
-<br>
-
-<p align="center">
-<code>COMPONENT-DRIVEN UI</code><br><br>
-<code>RESPONSIVE INTERFACES</code>
-</p>
-
-</td>
-
-
-<!-- BACKEND -->
-
-<td width="33%" valign="top">
-
-### Backend
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,python&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=supabase,postgres&theme=dark" />
-</p>
-
-<br>
-
-<p align="center">
-<strong>FastAPI · Python</strong><br>
-<strong>Supabase · SQL</strong>
-</p>
-
-<br>
-
-<p align="center">
-<code>REST APIs</code><br><br>
-<code>BACKEND SERVICES</code><br><br>
-<code>API INTEGRATION</code>
-</p>
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<!-- AI + ML -->
-
-<td width="33%" valign="top">
-
-### AI + ML
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,python,opencv&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/YOLO-11131B?style=for-the-badge">
-  <img src="https://img.shields.io/badge/SAM-11131B?style=for-the-badge&logo=meta&logoColor=A855F7">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GYMNASIUM-11131B?style=for-the-badge">
-  <img src="https://img.shields.io/badge/PPO-11131B?style=for-the-badge">
-</p>
-
-<br>
-
-<p align="center">
-<strong>PyTorch · YOLO · SAM</strong><br>
-<strong>Gymnasium · PPO</strong>
-</p>
-
-<br>
-
-<p align="center">
-<code>COMPUTER VISION</code><br><br>
-<code>REINFORCEMENT LEARNING</code><br><br>
-<code>LLM APPLICATIONS</code><br><br>
-<code>CLAUDE API</code>
-</p>
-
-</td>
-
-
-<!-- SYSTEMS -->
-
-<td width="33%" valign="top">
-
-### Systems + Compute
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CUDA-11131B?style=for-the-badge&logo=nvidia&logoColor=76B900">
-</p>
-
-<br>
-
-<p align="center">
-<strong>Linux · Ubuntu</strong><br>
-<strong>Docker · CUDA</strong>
-</p>
-
-<br>
-
-<p align="center">
-<code>GPU ENVIRONMENTS</code><br><br>
-<code>TENSTORRENT CLOUD</code><br><br>
-<code>UNIX</code>
-</p>
-
-</td>
-
-
-<!-- TOOLS -->
-
-<td width="33%" valign="top">
-
-### Tools + Workflow
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CVAT-11131B?style=for-the-badge">
-  <img src="https://img.shields.io/badge/PANDAS-11131B?style=for-the-badge&logo=pandas&logoColor=E70488">
-</p>
-
-<br>
-
-<p align="center">
-<strong>Git · GitHub · VS Code</strong><br>
-<strong>CVAT · Pandas</strong>
-</p>
-
-<br>
-
-<p align="center">
-<code>FEATURE BRANCHES</code><br><br>
-<code>PULL REQUESTS</code><br><br>
-<code>CODE REVIEWS</code>
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<img
-  width="100%"
-  height="4"
-  src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FF3D9A,30:A855F7,60:3478F6,82:8D55E9,100:FF7043"
-/>
-
-<br>
-
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        EXPERIENCE                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## EXPERIENCE
-
-<sub>RESEARCH × ENGINEERING × SYSTEMS</sub>
+<img src="https://skillicons.dev/icons?i=python,java,ts,c&theme=dark" />
 
 <br><br>
 
+<img src="https://skillicons.dev/icons?i=r,ruby,bash&theme=dark" />
 
-<!-- UHN -->
+<br><br>
 
-### ✦ UNIVERSITY HEALTH NETWORK
+<img src="https://img.shields.io/badge/SQL-11151C?style=flat-square&logo=postgresql&logoColor=00DDFF">
+<img src="https://img.shields.io/badge/MIPS-11151C?style=flat-square&logoColor=white">
+
+<br><br>
+
+<sub>
+Python · Java · TypeScript · C<br>
+SQL · R · Ruby · Bash · MIPS
+</sub>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### AI / ML
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=pytorch,python,opencv&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/YOLO-11151C?style=flat-square&labelColor=11151C">
+<img src="https://img.shields.io/badge/SAM-11151C?style=flat-square&logo=meta&logoColor=F75990">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Gymnasium-11151C?style=flat-square">
+<img src="https://img.shields.io/badge/PPO-11151C?style=flat-square">
+
+<br><br>
+
+<sub>
+Computer Vision · Reinforcement Learning<br>
+LLM Applications · Model Training
+</sub>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### Web
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,ts,html,css&theme=dark" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=fastapi,supabase,postgres&theme=dark" />
+
+<br><br>
+
+<sub>
+React · TypeScript · HTML · CSS<br>
+FastAPI · Supabase · PostgreSQL<br>
+REST APIs
+</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+### Systems
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CUDA-11151C?style=flat-square&logo=nvidia&logoColor=FFF685">
+<img src="https://img.shields.io/badge/UNIX-11151C?style=flat-square">
+
+<br><br>
+
+<sub>
+Linux · Ubuntu · Docker · CUDA<br>
+GPU Environments · Unix
+</sub>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### Tools
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CVAT-11151C?style=flat-square">
+<img src="https://img.shields.io/badge/Pandas-11151C?style=flat-square&logo=pandas&logoColor=F75990">
+
+<br><br>
+
+<sub>
+Git · GitHub · VS Code<br>
+CVAT · Pandas
+</sub>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### Workflow
+
+<br>
+
+<img src="https://img.shields.io/badge/FEATURE%20BRANCHES-11151C?style=for-the-badge&logo=git&logoColor=FF1D58">
+
+<br>
+
+<img src="https://img.shields.io/badge/PULL%20REQUESTS-11151C?style=for-the-badge&logo=github&logoColor=00DDFF">
+
+<br>
+
+<img src="https://img.shields.io/badge/CODE%20REVIEWS-11151C?style=for-the-badge&logo=github&logoColor=FFF685">
+
+<br><br>
+
+<sub>
+Collaborative development<br>
+Version control · Reproducible systems
+</sub>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<img width="100%" height="3"
+src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0049B7,35:00DDFF,70:F75990,100:FF1D58"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                           EXPERIENCE                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<br>
+
+<div align="center">
+
+## EXPERIENCE
+
+<sub>WHERE RESEARCH MEETS ENGINEERING</sub>
+
+</div>
+
+<br>
+
+### UNIVERSITY HEALTH NETWORK
 
 #### Machine Learning Researcher
 
-<p>
-  <img src="https://img.shields.io/badge/COMPUTER_VISION-FF3D9A?style=flat-square&labelColor=11131B">
-  &nbsp;
-  <img src="https://img.shields.io/badge/PYTORCH-A855F7?style=flat-square&logo=pytorch&logoColor=white&labelColor=11131B">
-  &nbsp;
-  <img src="https://img.shields.io/badge/YOLO-3478F6?style=flat-square&labelColor=11131B">
-  &nbsp;
-  <img src="https://img.shields.io/badge/SAM-FF7043?style=flat-square&labelColor=11131B">
-  &nbsp;
-  <img src="https://img.shields.io/badge/CVAT-FF3D9A?style=flat-square&labelColor=11131B">
-  &nbsp;
-  <img src="https://img.shields.io/badge/DOCKER-3478F6?style=flat-square&logo=docker&logoColor=white&labelColor=11131B">
-  &nbsp;
-  <img src="https://img.shields.io/badge/CUDA-A855F7?style=flat-square&logo=nvidia&logoColor=white&labelColor=11131B">
-</p>
-
 **APR 2026 → PRESENT**　·　`TORONTO, CANADA`
+
+<p>
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-FF1D58?style=flat-square&labelColor=11151C">
+<img src="https://img.shields.io/badge/PYTORCH-F75990?style=flat-square&logo=pytorch&logoColor=white&labelColor=11151C">
+<img src="https://img.shields.io/badge/YOLO-00DDFF?style=flat-square&labelColor=11151C">
+<img src="https://img.shields.io/badge/SAM-0049B7?style=flat-square&logo=meta&logoColor=white&labelColor=11151C">
+<img src="https://img.shields.io/badge/CVAT-FFF685?style=flat-square&labelColor=11151C">
+<img src="https://img.shields.io/badge/DOCKER-00DDFF?style=flat-square&logo=docker&logoColor=white&labelColor=11151C">
+<img src="https://img.shields.io/badge/CUDA-0049B7?style=flat-square&logo=nvidia&logoColor=white&labelColor=11151C">
+</p>
 
 > Contributing to a computer-vision pipeline for **gastric ultrasound imaging and medical-image analysis**.
 
@@ -382,33 +303,25 @@ MIPS Assembly
 
 <br>
 
-<img width="100%" height="2"
-src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:17181E,70:39234A,100:A855F7"/>
+<img width="100%" height="1"
+src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:11151C,75:0049B7,100:00DDFF"/>
 
 <br>
 
-
-<!-- METACHEM -->
-
-### ✦ METACHEM GROUP
+### METACHEM GROUP
 
 #### Software Engineering Intern
 
-<p>
-  <img src="https://img.shields.io/badge/REACT-3478F6?style=flat-square&logo=react&logoColor=white&labelColor=11131B">
-  &nbsp;
-  <img src="https://img.shields.io/badge/TYPESCRIPT-A855F7?style=flat-square&logo=typescript&logoColor=white&labelColor=11131B">
-  &nbsp;
-  <img src="https://img.shields.io/badge/FASTAPI-FF3D9A?style=flat-square&logo=fastapi&logoColor=white&labelColor=11131B">
-  &nbsp;
-  <img src="https://img.shields.io/badge/PYTHON-3478F6?style=flat-square&logo=python&logoColor=white&labelColor=11131B">
-  &nbsp;
-  <img src="https://img.shields.io/badge/PANDAS-FF7043?style=flat-square&logo=pandas&logoColor=white&labelColor=11131B">
-  &nbsp;
-  <img src="https://img.shields.io/badge/REST_API-A855F7?style=flat-square&labelColor=11131B">
-</p>
-
 **MAY 2025 → AUG 2025**　·　`TORONTO, CANADA`
+
+<p>
+<img src="https://img.shields.io/badge/REACT-00DDFF?style=flat-square&logo=react&logoColor=white&labelColor=11151C">
+<img src="https://img.shields.io/badge/TYPESCRIPT-0049B7?style=flat-square&logo=typescript&logoColor=white&labelColor=11151C">
+<img src="https://img.shields.io/badge/FASTAPI-FF1D58?style=flat-square&logo=fastapi&logoColor=white&labelColor=11151C">
+<img src="https://img.shields.io/badge/PYTHON-F75990?style=flat-square&logo=python&logoColor=white&labelColor=11151C">
+<img src="https://img.shields.io/badge/PANDAS-FFF685?style=flat-square&logo=pandas&logoColor=11151C&labelColor=11151C">
+<img src="https://img.shields.io/badge/REST%20API-0049B7?style=flat-square&labelColor=11151C">
+</p>
 
 > Built **full-stack software and automated data-processing infrastructure** for a product and supplier data platform.
 
@@ -419,29 +332,23 @@ src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:17181E,70:
 
 <br>
 
-<img width="100%" height="2"
-src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:17181E,70:39234A,100:FF3D9A"/>
+<img width="100%" height="1"
+src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:11151C,75:F75990,100:FF1D58"/>
 
 <br>
 
-
-<!-- BASAMAD -->
-
-### ✦ BASAMAD.CO
+### BASAMAD.CO
 
 #### Applied Systems Researcher
 
-<p>
-  <img src="https://img.shields.io/badge/SYSTEMS_ANALYSIS-3478F6?style=flat-square&labelColor=11131B">
-  &nbsp;
-  <img src="https://img.shields.io/badge/AUTOMATION-A855F7?style=flat-square&labelColor=11131B">
-  &nbsp;
-  <img src="https://img.shields.io/badge/CRM-FF3D9A?style=flat-square&labelColor=11131B">
-  &nbsp;
-  <img src="https://img.shields.io/badge/WORKFLOW_DESIGN-FF7043?style=flat-square&labelColor=11131B">
-</p>
-
 **NOV 2023 → MAY 2024**
+
+<p>
+<img src="https://img.shields.io/badge/SYSTEMS%20ANALYSIS-0049B7?style=flat-square&labelColor=11151C">
+<img src="https://img.shields.io/badge/AUTOMATION-00DDFF?style=flat-square&labelColor=11151C">
+<img src="https://img.shields.io/badge/CRM-F75990?style=flat-square&labelColor=11151C">
+<img src="https://img.shields.io/badge/WORKFLOW%20DESIGN-FF1D58?style=flat-square&labelColor=11151C">
+</p>
 
 > Analyzed **system architecture and automation opportunities** for a CRM environment supporting **50+ agents**.
 
@@ -452,42 +359,41 @@ src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:17181E,70:
 
 <br>
 
-<img
-  width="100%"
-  height="4"
-  src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FF7043,25:FF3D9A,55:A855F7,80:3478F6,100:FF3D9A"
-/>
+<img width="100%" height="3"
+src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FF1D58,35:F75990,65:00DDFF,100:0049B7"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         SELECTED WORK                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <br>
 
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      SELECTED WORK                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<div align="center">
 
 ## SELECTED WORK
 
-<sub>THINGS I'VE BUILT ✦</sub>
+<sub>PROJECTS BUILT TO SOLVE REAL PROBLEMS</sub>
 
 <br><br>
 
 <table>
-
 <tr>
 
 <td width="33%" valign="top">
 
-### ✦ NORTHSTAR
+<div align="center">
+
+### NORTHSTAR
 
 **AI-Powered Scholarship Matching**
 
 <br>
 
-<p>
-<img src="https://img.shields.io/badge/CLAUDE_API-FF3D9A?style=flat-square&labelColor=11131B">
-<img src="https://img.shields.io/badge/FASTAPI-A855F7?style=flat-square&logo=fastapi&logoColor=white&labelColor=11131B">
-<img src="https://img.shields.io/badge/SUPABASE-3478F6?style=flat-square&logo=supabase&logoColor=white&labelColor=11131B">
-</p>
+<img src="https://img.shields.io/badge/CLAUDE%20API-FF1D58?style=flat-square&labelColor=11151C">
+<img src="https://img.shields.io/badge/FASTAPI-F75990?style=flat-square&logo=fastapi&logoColor=white&labelColor=11151C">
+<img src="https://img.shields.io/badge/SUPABASE-00DDFF?style=flat-square&logo=supabase&logoColor=white&labelColor=11151C">
+
+</div>
 
 <br>
 
@@ -495,51 +401,57 @@ AI-powered scholarship matching and essay-generation platform combining determin
 
 <br>
 
+<div align="center">
+
 **40+ SCHOLARSHIPS**
 
-**60% FEWER IRRELEVANT MATCHES**
+`60% FEWER IRRELEVANT MATCHES`
+
+</div>
 
 </td>
 
-
 <td width="33%" valign="top">
 
-### ✦ AI²
+<div align="center">
+
+### AI²
 
 **Reinforcement Learning · UTMIST**
 
 <br>
 
-<p>
-<img src="https://img.shields.io/badge/PYTHON-3478F6?style=flat-square&logo=python&logoColor=white&labelColor=11131B">
-<img src="https://img.shields.io/badge/PYTORCH-FF3D9A?style=flat-square&logo=pytorch&logoColor=white&labelColor=11131B">
-<img src="https://img.shields.io/badge/GYMNASIUM-A855F7?style=flat-square&labelColor=11131B">
-<img src="https://img.shields.io/badge/PPO-FF7043?style=flat-square&labelColor=11131B">
-</p>
+<img src="https://img.shields.io/badge/PYTHON-0049B7?style=flat-square&logo=python&logoColor=white&labelColor=11151C">
+<img src="https://img.shields.io/badge/PYTORCH-FF1D58?style=flat-square&logo=pytorch&logoColor=white&labelColor=11151C">
+<img src="https://img.shields.io/badge/GYMNASIUM-00DDFF?style=flat-square&labelColor=11151C">
+<img src="https://img.shields.io/badge/PPO-F75990?style=flat-square&labelColor=11151C">
+
+</div>
 
 <br>
 
-Built competitive reinforcement-learning agents with **custom reward functions and state encoders**.
+Built competitive reinforcement-learning agents using **custom reward functions and state encoders**.
 
-Trained using **PPO**, benchmarked on **Tenstorrent Cloud**, and configured GPU-based parallel simulation pipelines.
+Trained with **PPO**, benchmarked on **Tenstorrent Cloud**, and configured GPU-based parallel simulation pipelines.
 
 </td>
 
-
 <td width="33%" valign="top">
 
-### ♫ RATE MY MUSIC
+<div align="center">
+
+### RATE MY MUSIC
 
 **Java Desktop Application**
 
 <br>
 
-<p>
-<img src="https://img.shields.io/badge/JAVA-FF7043?style=flat-square&logo=openjdk&logoColor=white&labelColor=11131B">
-<img src="https://img.shields.io/badge/SWING-A855F7?style=flat-square&labelColor=11131B">
-<img src="https://img.shields.io/badge/CLEAN_ARCH-3478F6?style=flat-square&labelColor=11131B">
-<img src="https://img.shields.io/badge/API_INTEGRATION-FF3D9A?style=flat-square&labelColor=11131B">
-</p>
+<img src="https://img.shields.io/badge/JAVA-FF1D58?style=flat-square&logo=openjdk&logoColor=white&labelColor=11151C">
+<img src="https://img.shields.io/badge/SWING-F75990?style=flat-square&labelColor=11151C">
+<img src="https://img.shields.io/badge/CLEAN%20ARCH-00DDFF?style=flat-square&labelColor=11151C">
+<img src="https://img.shields.io/badge/API%20INTEGRATION-0049B7?style=flat-square&labelColor=11151C">
+
+</div>
 
 <br>
 
@@ -552,23 +464,20 @@ Integrated external APIs providing metadata for **100+ songs**.
 </td>
 
 </tr>
-
 </table>
 
-<br>
-
-<img
-  width="100%"
-  height="4"
-  src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:A855F7,35:3478F6,68:FF3D9A,100:FF7043"
-/>
+</div>
 
 <br>
 
+<img width="100%" height="3"
+src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0049B7,35:00DDFF,65:F75990,100:FF1D58"/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                         CONNECT                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                            CONNECT                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<br>
 
 <div align="center">
 
@@ -581,15 +490,19 @@ I'm interested in **software engineering, full-stack, and AI/ML opportunities** 
 <br>
 
 <a href="https://www.linkedin.com/in/raha-jalalian/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-3478F6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=11131B">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0049B7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=11151C">
 </a>
+
+&nbsp;
 
 <a href="mailto:raha.jalalian@mail.utoronto.ca">
-<img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-FF3D9A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=11131B">
+<img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-FF1D58?style=for-the-badge&logo=gmail&logoColor=white&labelColor=11151C">
 </a>
 
+&nbsp;
+
 <a href="https://github.com/RahaJalalian">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=11131B">
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE-00DDFF?style=for-the-badge&logo=github&logoColor=white&labelColor=11151C">
 </a>
 
 <br><br><br>
@@ -600,7 +513,7 @@ I'm interested in **software engineering, full-stack, and AI/ML opportunities** 
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0B0C10,25:171221,50:A855F7,70:FF3D9A,87:3478F6,100:0B0C10"
+  src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:0D1117,30:0049B7,55:00DDFF,76:F75990,90:FF1D58,100:0D1117"
 />
 
 </div>
