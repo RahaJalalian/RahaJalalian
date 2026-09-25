@@ -7,7 +7,7 @@
 
 <!-- HERO -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FFB7D5,35:E8B4F8,70:CAB8FF,100:B8D8FF&text=Raha%20Jalalian&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineering%20%E2%9C%A6%20AI%20%2F%20ML&descAlignY=58&descSize=20&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:170B2C,30:28105A,65:55208A,100:D81B8C&text=Raha%20Jalalian&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineering%20%E2%9C%A6%20AI%20%2F%20ML&descAlignY=58&descSize=20&animation=fadeIn"/>
 
 <br>
 
@@ -18,21 +18,21 @@
 <br>
 
 <a href="https://www.linkedin.com/in/raha-jalalian/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-E8B4F8?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-8B2FA8?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:raha.jalalian@mail.utoronto.ca">
-  <img src="https://img.shields.io/badge/Email-Say_Hi-FFB7D5?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-Say_Hi-D81B8C?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://github.com/RahaJalalian">
-  <img src="https://img.shields.io/badge/GitHub-Explore-CAB8FF?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-Explore-28105A?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🎓_University_of_Toronto-CS_Specialist-B8D8FF?style=flat-square">
-<img src="https://img.shields.io/badge/💼_ASIP-Co--op-FFB7D5?style=flat-square">
-<img src="https://img.shields.io/badge/📍_Toronto-Canada-E8B4F8?style=flat-square">
-<img src="https://img.shields.io/badge/✨_Open_to-SWE_&_AI/ML_Opportunities-CAB8FF?style=flat-square">
+<img src="https://img.shields.io/badge/🎓_University_of_Toronto-CS_Specialist-243B80?style=flat-square">
+<img src="https://img.shields.io/badge/💼_ASIP-Co--op-D81B8C?style=flat-square">
+<img src="https://img.shields.io/badge/📍_Toronto-Canada-8B2FA8?style=flat-square">
+<img src="https://img.shields.io/badge/✨_Open_to-SWE_&_AI/ML_Opportunities-55208A?style=flat-square">
 
 </div>
 
@@ -64,8 +64,6 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 
 <br>
 
-<!-- DIVIDER -->
-
 <p align="center">
   ⋆｡°✩ ────────────── ✧ ────────────── ✩°｡⋆
 </p>
@@ -86,9 +84,13 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 
 ### ୨୧ Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,ts,c,r,ruby,bash&theme=light" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,ts,c&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=r,ruby,bash,html&theme=dark" />
+</p>
 
-<br><br>
+<br>
 
 `Python` `Java` `TypeScript`  
 `C` `SQL` `HTML/CSS`  
@@ -101,7 +103,7 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 
 ### ✦ Full-Stack
 
-<img src="https://skillicons.dev/icons?i=react,ts,html,css,fastapi&theme=light" />
+<img src="https://skillicons.dev/icons?i=react,ts,html,css,fastapi&theme=dark" />
 
 <br><br>
 
@@ -116,7 +118,7 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 
 ### ♡ AI / ML
 
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
 
 <br><br>
 
@@ -135,7 +137,7 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 
 ### ☁ Data & Processing
 
-<img src="https://skillicons.dev/icons?i=python&theme=light" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
 <br><br>
 
@@ -151,7 +153,7 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 
 ### ⚙ Systems & Environments
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker&theme=light" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker&theme=dark" />
 
 <br><br>
 
@@ -166,7 +168,7 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 
 ### ✧ Developer Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 <br><br>
 
@@ -196,12 +198,14 @@ I love turning complex ideas into software that is **useful, intelligent, and bu
 
 > **Healthcare Computer Vision · Apr 2026 — Present**
 
-<img src="https://img.shields.io/badge/PyTorch-FFB7D5?style=flat-square&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/YOLO-E8B4F8?style=flat-square">
-<img src="https://img.shields.io/badge/SAM-CAB8FF?style=flat-square">
-<img src="https://img.shields.io/badge/CVAT-B8D8FF?style=flat-square">
-<img src="https://img.shields.io/badge/Docker-FFB7D5?style=flat-square&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/CUDA-E8B4F8?style=flat-square&logo=nvidia&logoColor=white">
+<p>
+<img src="https://img.shields.io/badge/PyTorch-D81B8C?style=flat-square&logo=pytorch&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/YOLO-8B2FA8?style=flat-square">&nbsp;
+<img src="https://img.shields.io/badge/SAM-55208A?style=flat-square">&nbsp;
+<img src="https://img.shields.io/badge/CVAT-243B80?style=flat-square">&nbsp;
+<img src="https://img.shields.io/badge/Docker-D81B8C?style=flat-square&logo=docker&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/CUDA-8B2FA8?style=flat-square&logo=nvidia&logoColor=white">
+</p>
 
 Working on a **computer-vision pipeline for gastric ultrasound imaging**, using YOLO and Segment Anything Model for medical-image detection and segmentation.
 
@@ -216,11 +220,13 @@ Working on a **computer-vision pipeline for gastric ultrasound imaging**, using 
 
 > **Full-Stack & Data Engineering · May 2025 — Aug 2025**
 
-<img src="https://img.shields.io/badge/React-FFB7D5?style=flat-square&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-E8B4F8?style=flat-square&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-CAB8FF?style=flat-square&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/Python-B8D8FF?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-FFB7D5?style=flat-square&logo=pandas&logoColor=white">
+<p>
+<img src="https://img.shields.io/badge/React-D81B8C?style=flat-square&logo=react&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-8B2FA8?style=flat-square&logo=typescript&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/FastAPI-55208A?style=flat-square&logo=fastapi&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Python-243B80?style=flat-square&logo=python&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Pandas-D81B8C?style=flat-square&logo=pandas&logoColor=white">
+</p>
 
 Built software and data-processing tools for a **product and supplier data platform**.
 
@@ -235,9 +241,11 @@ Built software and data-processing tools for a **product and supplier data platf
 
 > **Systems & Workflow Automation · Nov 2023 — May 2024**
 
-<img src="https://img.shields.io/badge/Systems_Analysis-FFB7D5?style=flat-square">
-<img src="https://img.shields.io/badge/Workflow_Automation-E8B4F8?style=flat-square">
-<img src="https://img.shields.io/badge/CRM_Systems-CAB8FF?style=flat-square">
+<p>
+<img src="https://img.shields.io/badge/Systems_Analysis-D81B8C?style=flat-square">&nbsp;
+<img src="https://img.shields.io/badge/Workflow_Automation-8B2FA8?style=flat-square">&nbsp;
+<img src="https://img.shields.io/badge/CRM_Systems-243B80?style=flat-square">
+</p>
 
 Analyzed and redesigned technical workflows for a CRM environment supporting **50+ agents**, focusing on scalability, automation, and data synchronization.
 
@@ -265,12 +273,14 @@ Analyzed and redesigned technical workflows for a CRM environment supporting **5
 
 <p align="center"><b>AI-Powered Scholarship Matching Platform</b></p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Claude_API-FFB7D5?style=flat-square">
-<img src="https://img.shields.io/badge/FastAPI-E8B4F8?style=flat-square&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/Supabase-CAB8FF?style=flat-square&logo=supabase&logoColor=white">
-<img src="https://img.shields.io/badge/AI-B8D8FF?style=flat-square">
-</p>
+<div align="center">
+<img src="https://img.shields.io/badge/Claude_API-D81B8C?style=flat-square">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/FastAPI-8B2FA8?style=flat-square&logo=fastapi&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Supabase-55208A?style=flat-square&logo=supabase&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/AI-243B80?style=flat-square">
+</div>
+
+<br>
 
 Led development of an **AI-powered scholarship matching and essay-generation platform**.
 
@@ -289,12 +299,14 @@ Built structured prompt pipelines for scholarship scoring, reasoning, and person
 
 <p align="center"><b>UTMIST · Competitive RL Agent</b></p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-FFB7D5?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-E8B4F8?style=flat-square&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/Gymnasium-CAB8FF?style=flat-square">
-<img src="https://img.shields.io/badge/PPO-B8D8FF?style=flat-square">
-</p>
+<div align="center">
+<img src="https://img.shields.io/badge/Python-D81B8C?style=flat-square&logo=python&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PyTorch-8B2FA8?style=flat-square&logo=pytorch&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Gymnasium-55208A?style=flat-square">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PPO-243B80?style=flat-square">
+</div>
+
+<br>
 
 Developed **reinforcement-learning agents** for a competitive 1v1 game environment.
 
@@ -316,12 +328,14 @@ Benchmarked models on **Tenstorrent Cloud** using GPU environments and parallel 
 
 <p align="center"><b>Java Desktop Music Application</b></p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Java-FFB7D5?style=flat-square&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Java_Swing-E8B4F8?style=flat-square">
-<img src="https://img.shields.io/badge/Clean_Architecture-CAB8FF?style=flat-square">
-<img src="https://img.shields.io/badge/API_Integration-B8D8FF?style=flat-square">
-</p>
+<div align="center">
+<img src="https://img.shields.io/badge/Java-D81B8C?style=flat-square&logo=openjdk&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Java_Swing-8B2FA8?style=flat-square">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Clean_Architecture-55208A?style=flat-square">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/API_Integration-243B80?style=flat-square">
+</div>
+
+<br>
 
 <p align="center">
 Built a Java desktop application for <b>browsing, reviewing, and rating music</b>.<br><br>
@@ -418,15 +432,15 @@ explore new ideas, and work on technology that matters.
 <br><br>
 
 <a href="https://www.linkedin.com/in/raha-jalalian/">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-FFB7D5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-D81B8C?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 &nbsp;
 <a href="mailto:raha.jalalian@mail.utoronto.ca">
-  <img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-E8B4F8?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-8B2FA8?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 &nbsp;
 <a href="https://github.com/RahaJalalian">
-  <img src="https://img.shields.io/badge/GITHUB-EXPLORE-CAB8FF?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GITHUB-EXPLORE-243B80?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <br><br>
@@ -437,7 +451,7 @@ explore new ideas, and work on technology that matters.
 
 <!-- FOOTER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:B8D8FF,35:CAB8FF,70:E8B4F8,100:FFB7D5"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:170B2C,30:28105A,65:55208A,100:D81B8C"/>
 
 <div align="center">
 <sub>♡ designed with a little too much attention to detail ♡</sub>
