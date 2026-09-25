@@ -8,7 +8,7 @@
 <!-- HERO -->
 
 <img width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0049B7,100:020617&text=Raha%20Jalalian&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineering%20%E2%9C%A6%20AI%20%2F%20ML&descAlignY=58&descSize=20&animation=fadeIn"/>
+src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FF1D58,50:F75990,100:9D174D&text=Raha%20Jalalian&fontColor=FFFFFF&fontSize=54&fontAlignY=38&fontAlign=50&desc=Software%20Engineering%20%E2%9C%A6%20AI%20%2F%20ML&descAlignY=58&descSize=20&descColor=FFFFFF&animation=fadeIn"/>
 
 ### Computer Science @ University of Toronto
 
@@ -17,7 +17,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0049B7
 <br>
 
 <a href="https://www.linkedin.com/in/raha-jalalian/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0049B7?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-F75990?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 &nbsp;
 <a href="mailto:raha.jalalian@mail.utoronto.ca">
@@ -25,15 +25,15 @@ src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0049B7
 </a>
 &nbsp;
 <a href="https://github.com/RahaJalalian">
-  <img src="https://img.shields.io/badge/GitHub-Explore-00DFFF?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-Explore-9D174D?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/University_of_Toronto-CS_Specialist-0049B7?style=flat-square">
+<img src="https://img.shields.io/badge/University_of_Toronto-CS_Specialist-F75990?style=flat-square">
 <img src="https://img.shields.io/badge/ASIP-Co--op-FF1D58?style=flat-square">
-<img src="https://img.shields.io/badge/Toronto-Canada-00DFFF?style=flat-square">
-<img src="https://img.shields.io/badge/Open_to-SWE_&_AI%2FML-F75990?style=flat-square">
+<img src="https://img.shields.io/badge/Toronto-Canada-D81B60?style=flat-square">
+<img src="https://img.shields.io/badge/Open_to-SWE_&_AI%2FML-9D174D?style=flat-square">
 
 </div>
 
