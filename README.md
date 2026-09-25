@@ -7,7 +7,7 @@
 
 <!-- HERO -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0049B7&text=Raha%20Jalalian&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineering%20%E2%9C%A6%20AI%20%2F%20ML&descAlignY=58&descSize=20&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0049B7,45:0636A3,72:172A7A,100:24135F&text=Raha%20Jalalian&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineering%20%E2%9C%A6%20AI%20%2F%20ML&descAlignY=58&descSize=20&animation=fadeIn"/>
 
 <br>
 
