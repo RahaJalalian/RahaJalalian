@@ -8,7 +8,7 @@
 <!-- HERO -->
 
 <img width="100%"
-src="https://capsule-render.vercel.app/api?type=venom&height=260&color=gradient&customColorList=12,2,2,20,24&text=Raha%20Jalalian&fontColor=ffffff&fontSize=52&fontAlignY=42&desc=Software%20Engineering%20%E2%9C%A6%20AI%20%2F%20ML&descAlignY=62&descSize=20&animation=fadeIn"/>
+src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4B00E0,100:020B2D&text=Raha%20Jalalian&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineering%20%E2%9C%A6%20AI%20%2F%20ML&descAlignY=58&descSize=20&animation=fadeIn"/>
 
 ### Computer Science @ University of Toronto
 
@@ -465,7 +465,7 @@ explore new ideas, and work on technology that matters.
 <!-- FOOTER -->
 
 <img width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=12,2,2,20,24"/>
+src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:020B2D,100:4B00E0"/>
 
 <div align="center">
 <sub>Designed & built by Raha Jalalian</sub>
