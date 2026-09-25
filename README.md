@@ -407,31 +407,7 @@ and integrated external APIs to retrieve metadata for <b>100+ songs</b>.
 <br>
 
 <p align="center">
-━━━━━━━━━━━━━━━━━━━━ ◇ ━━━━━━━━━━━━━━━━━━━━
-</p>
 
-<!-- PERSONAL -->
-
-<h2 align="center">◆ Beyond the Terminal</h2>
-
-<div align="center">
-
-When I'm not coding, you'll probably find me somewhere between  
-**music, singing, research, and learning something completely new.**
-
-I like work that sits at the intersection of  
-**creativity · technology · real-world impact**.
-
-<br><br>
-
-`♫ Music`　•　`🎙 Singing`　•　`💻 Building`　•　`📚 Learning`　•　`⚙ Creating`
-
-</div>
-
-<br>
-
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━ ◇ ━━━━━━━━━━━━━━━━━━━━
 </p>
 
 <!-- CONTACT -->
