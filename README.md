@@ -390,8 +390,25 @@ Benchmarked models on **Tenstorrent Cloud** using GPU environments and parallel 
 <br>
 
 <p align="center">
+
+  <a href="https://github.com/RahaJalalian/World-mental-health-analysis-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahaJalalian&repo=World-mental-health-analysis-project&theme=transparent&title_color=0049B7&text_color=8B949E&icon_color=0049B7&border_color=30363D" />
+</a>
+
+<br>
+
+**Global Mental Health Data Analysis & Visualization**
+
+Developed a recursive tree-based data model to analyze global
+mental health disparities. Implemented regional data aggregation,
+comparative statistical analysis, and interactive visualizations
+to explore geographic trends and healthcare accessibility.
+
+**Tech Stack:** Python · Pandas · NumPy · Matplotlib ·
+Tree Data Structures · Recursion
+
+<br>
 ━━━━━━━━━━━━━━━━━━━━ ◇ ━━━━━━━━━━━━━━━━━━━━
-</p>
 
 <!-- ═══════════════════════ CURRENTLY ═══════════════════════ -->
 
