@@ -389,23 +389,51 @@ Benchmarked models on **Tenstorrent Cloud** using GPU environments and parallel 
 
 <br>
 
-<p align="center">
+<br>
 
-  <a href="https://github.com/RahaJalalian/World-mental-health-analysis-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RahaJalalian&repo=World-mental-health-analysis-project&theme=transparent&title_color=0049B7&text_color=8B949E&icon_color=0049B7&border_color=30363D" />
-</a>
+<table>
+<tr>
+
+<td width="100%" valign="top">
+
+<h3 align="center">Global Mental Health Data Analysis & Visualization</h3>
+
+<p align="center">
+  <b>University of Toronto · Data Science & Visualization</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0049B7?style=flat-square&logo=python&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-FF1D58?style=flat-square&logo=pandas&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NumPy-00DFFF?style=flat-square&logo=numpy&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-F75990?style=flat-square">
+</p>
+
+<p align="center">
+  Developed a <b>recursive tree-based data model</b> in Python
+  to analyze global mental health disparities across geographic regions.
+  <br><br>
+  Implemented custom tree structures supporting
+  <b>top-down and bottom-up traversal</b>
+  for regional data aggregation and statistical comparison.
+  <br><br>
+  Processed real-world datasets and generated
+  <b>treemaps, pie charts, and comparative bar charts</b>
+  to visualize regional trends and healthcare accessibility.
+</p>
 
 <br>
 
-**Global Mental Health Data Analysis & Visualization**
+<p align="center">
+  <a href="https://github.com/RahaJalalian/World-mental-health-analysis-project">
+    <img src="https://img.shields.io/badge/View_Project-0049B7?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
-Developed a recursive tree-based data model to analyze global
-mental health disparities. Implemented regional data aggregation,
-comparative statistical analysis, and interactive visualizations
-to explore geographic trends and healthcare accessibility.
+</td>
 
-**Tech Stack:** Python · Pandas · NumPy · Matplotlib ·
-Tree Data Structures · Recursion
+</tr>
+</table>
 
 <br>
 ━━━━━━━━━━━━━━━━━━━━ ◇ ━━━━━━━━━━━━━━━━━━━━
