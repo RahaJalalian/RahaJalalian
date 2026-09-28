@@ -321,30 +321,19 @@ Analyzed and redesigned technical workflows for a CRM environment supporting **5
 <img src="https://img.shields.io/badge/Supabase-0049B7?style=flat-square&logo=supabase&logoColor=white">
 <img src="https://img.shields.io/badge/AI-F75990?style=flat-square">
 
-<br><br>
-
+<p>
 Led development of an <b>AI-powered scholarship matching and essay-generation platform</b>.
-
 <br><br>
-
 Designed a multi-constraint ranking system combining eligibility rules with LLM-based matching.
-
 <br><br>
-
-<b>40+ scholarships</b><br>
-<b>60% fewer irrelevant recommendations</b>
-
+<b>40+ scholarships · 60% fewer irrelevant recommendations</b>
 <br><br>
-
 Built structured prompt pipelines for scholarship scoring and personalized generation.
-
-<br><br>
+</p>
 
 <a href="https://github.com/RahaJalalian?tab=repositories&q=NorthStar">
   <img src="https://img.shields.io/badge/View_Project-0049B7?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
-<br><br>
 
 </td>
 
@@ -363,29 +352,19 @@ Built structured prompt pipelines for scholarship scoring and personalized gener
 <img src="https://img.shields.io/badge/Gymnasium-00DFFF?style=flat-square">
 <img src="https://img.shields.io/badge/PPO-F75990?style=flat-square">
 
-<br><br>
-
+<p>
 Developed <b>reinforcement-learning agents</b> for a competitive 1v1 game environment.
-
 <br><br>
-
 Trained agents using <b>Proximal Policy Optimization (PPO)</b>.
-
 <br><br>
-
 Designed custom reward functions and state encoders to improve agent performance.
-
 <br><br>
-
-Benchmarked models on <b>Tenstorrent Cloud</b> using GPU environments and parallel simulation pipelines.
-
-<br><br>
+Benchmarked models on <b>Tenstorrent Cloud</b> using GPU environments and parallel simulations.
+</p>
 
 <a href="https://github.com/RahaJalalian?tab=repositories&q=reinforcement">
   <img src="https://img.shields.io/badge/View_Project-0049B7?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
-<br><br>
 
 </td>
 
@@ -414,25 +393,17 @@ Benchmarked models on <b>Tenstorrent Cloud</b> using GPU environments and parall
 <img src="https://img.shields.io/badge/Clean_Architecture-FF1D58?style=flat-square">
 <img src="https://img.shields.io/badge/REST_API-F75990?style=flat-square">
 
-<br><br>
-
+<p>
 Built a Java desktop application for <b>browsing, reviewing, and rating music</b>.
-
 <br><br>
-
 Implemented <b>Clean Architecture</b> to separate business logic, interface adapters, and UI components.
-
 <br><br>
-
 Integrated external APIs to retrieve metadata for <b>100+ songs</b>.
-
-<br><br>
+</p>
 
 <a href="https://github.com/RahaJalalian?tab=repositories&q=music">
   <img src="https://img.shields.io/badge/View_Project-0049B7?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
-<br><br>
 
 </td>
 
@@ -451,29 +422,19 @@ Integrated external APIs to retrieve metadata for <b>100+ songs</b>.
 <img src="https://img.shields.io/badge/NumPy-00DFFF?style=flat-square&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Matplotlib-F75990?style=flat-square">
 
-<br><br>
-
+<p>
 Developed a <b>recursive tree-based data model</b> to analyze global mental health disparities.
-
 <br><br>
-
 Implemented custom tree structures supporting <b>top-down and bottom-up traversal</b>.
-
 <br><br>
-
 Processed real-world datasets and generated <b>treemaps, pie charts, and comparative bar charts</b>.
-
 <br><br>
-
 Visualized regional trends and healthcare accessibility across geographic regions.
-
-<br><br>
+</p>
 
 <a href="https://github.com/RahaJalalian/World-mental-health-analysis-project">
   <img src="https://img.shields.io/badge/View_Project-0049B7?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
-<br><br>
 
 </td>
 
@@ -481,12 +442,6 @@ Visualized regional trends and healthcare accessibility across geographic region
 </table>
 
 <br>
-
-<!-- ═══════════════════════ SECTION DIVIDER ═══════════════════════ -->
-
-<p align="center">
-  ━━━━━━━━━━━━━━━━━━━━ ◇ ━━━━━━━━━━━━━━━━━━━━
-</p>
 
 <!-- ═══════════════════════ SECTION DIVIDER ═══════════════════════ -->
 
