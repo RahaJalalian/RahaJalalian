@@ -301,7 +301,7 @@ Analyzed and redesigned technical workflows for a CRM environment supporting **5
   <tr>
     <!-- NORTHSTAR -->
     <td width="50%" valign="top" align="center">
-      <h3><a href="https://github.com/kikotc/NorthStar">NorthStar</a></h3>
+      <h3>NorthStar</h3>
       <p><b>AI-Powered Scholarship Matching Platform</b></p>
       <p>
         <img src="https://img.shields.io/badge/Claude_API-FF1D58?style=flat-square" alt="Claude API">
@@ -315,7 +315,7 @@ Analyzed and redesigned technical workflows for a CRM environment supporting **5
     </td>
     <!-- AI² REINFORCEMENT LEARNING -->
     <td width="50%" valign="top" align="center">
-      <h3><a href="https://github.com/RahaJalalian?tab=repositories&q=reinforcement">AI² Reinforcement Learning</a></h3>
+      <h3>AI² Reinforcement Learning</h3>
       <p><b>UTMIST · Competitive RL Agent</b></p>
       <p>
         <img src="https://img.shields.io/badge/Python-0049B7?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -325,13 +325,13 @@ Analyzed and redesigned technical workflows for a CRM environment supporting **5
       </p>
       <p align="left">Developed reinforcement-learning agents for a competitive 1v1 game environment.</p>
       <p align="left">• Trained agents using <b>Proximal Policy Optimization (PPO)</b><br>• Designed custom rewards and state encoders<br>• Benchmarked models on <b>Tenstorrent Cloud</b> with parallel simulations</p>
-      <p><a href="https://github.com/RahaJalalian?tab=repositories&q=reinforcement"><img src="https://img.shields.io/badge/Find_Repository-0049B7?style=for-the-badge&logo=github&logoColor=white" alt="Find AI squared repository"></a></p>
+      <p><a href="https://github.com/Sendhilishaan/UTMIST-AI2"><img src="https://img.shields.io/badge/View_Project-0049B7?style=for-the-badge&logo=github&logoColor=white" alt="Find AI squared repository"></a></p>
     </td>
   </tr>
   <tr>
     <!-- RATE MY MUSIC -->
     <td width="50%" valign="top" align="center">
-      <h3><a href="https://github.com/RahaJalalian?tab=repositories&q=music">Rate My Music</a></h3>
+      <h3>Rate My Music</h3>
       <p><b>Java Desktop Music Application</b></p>
       <p>
         <img src="https://img.shields.io/badge/Java-0049B7?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
@@ -341,11 +341,11 @@ Analyzed and redesigned technical workflows for a CRM environment supporting **5
       </p>
       <p align="left">Built a Java desktop application for browsing, reviewing, and rating music.</p>
       <p align="left">• Applied <b>Clean Architecture</b> to separate business logic and UI<br>• Integrated external APIs for song metadata<br>• Supported metadata retrieval for <b>100+ songs</b></p>
-      <p><a href="https://github.com/RahaJalalian?tab=repositories&q=music"><img src="https://img.shields.io/badge/Find_Repository-0049B7?style=for-the-badge&logo=github&logoColor=white" alt="Find Rate My Music repository"></a></p>
+      <p><a href="https://github.com/kabilijum/team-project"><img src="https://img.shields.io/badge/View_Project-0049B7?style=for-the-badge&logo=github&logoColor=white" alt="Find Rate My Music repository"></a></p>
     </td>
     <!-- GLOBAL MENTAL HEALTH -->
     <td width="50%" valign="top" align="center">
-      <h3><a href="https://github.com/RahaJalalian/World-mental-health-analysis-project">Global Mental Health Analysis</a></h3>
+      <h3>Global Mental Health Analysis</h3>
       <p><b>University of Toronto · Data Visualization</b></p>
       <p>
         <img src="https://img.shields.io/badge/Python-0049B7?style=flat-square&logo=python&logoColor=white" alt="Python">
