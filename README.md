@@ -274,7 +274,7 @@ Built software and data-processing tools for a **product and supplier data platf
 
 ### ⚙️ Basamad.co · Applied Systems Researcher
 
-> **Systems & Workflow Automation · Nov 2023 — May 2024**
+> **Systems & Workflow Automation · Jun 2024 — Nov 2024**
 
 <p>
   <img src="https://img.shields.io/badge/Systems_Analysis-0049B7?style=flat-square">&nbsp;
